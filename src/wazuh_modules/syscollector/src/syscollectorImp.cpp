@@ -1,4 +1,4 @@
-/*
+/* 
  * Wazuh SysCollector
  * Copyright (C) 2015-2021, Wazuh Inc.
  * October 7, 2020.
